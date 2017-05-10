@@ -1,0 +1,18 @@
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\bin\Debug\gra.exe.config
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\bin\Debug\Gra.exe
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\bin\Debug\Gra.pdb
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cache
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\obj\Debug\Gra.Properties.Resources.resources
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\obj\Debug\gra.csproj.GenerateResource.Cache
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\obj\Debug\Gra.exe
+c:\users\łukasz\documents\visual studio 2015\Projects\gra\gra\obj\Debug\Gra.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\gra\gra\obj\Debug\gra.Gra.resources
+C:\Users\Marek\Desktop\gra\gra\bin\Debug\Gra.exe.config
+C:\Users\Marek\Desktop\gra\gra\obj\Debug\Gra.exe
+C:\Users\Marek\Desktop\gra\gra\obj\Debug\Gra.pdb
+C:\Users\Marek\Desktop\gra\gra\bin\Debug\Gra.exe
+C:\Users\Marek\Desktop\gra\gra\bin\Debug\Gra.pdb
+C:\Users\Marek\Desktop\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\gra\gra\obj\Debug\gra.Gra.resources
+C:\Users\Marek\Desktop\gra\gra\obj\Debug\Gra.Properties.Resources.resources
+C:\Users\Marek\Desktop\gra\gra\obj\Debug\gra.csproj.GenerateResource.Cache

@@ -16,3 +16,12 @@ C:\Users\Marek\Desktop\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cach
 C:\Users\Marek\Desktop\gra\gra\obj\Debug\gra.Gra.resources
 C:\Users\Marek\Desktop\gra\gra\obj\Debug\Gra.Properties.Resources.resources
 C:\Users\Marek\Desktop\gra\gra\obj\Debug\gra.csproj.GenerateResource.Cache
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\bin\Debug\Gra.exe.config
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\obj\Debug\Gra.exe
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\obj\Debug\Gra.pdb
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\bin\Debug\Gra.exe
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\bin\Debug\Gra.pdb
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\obj\Debug\gra.Gra.resources
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\obj\Debug\Gra.Properties.Resources.resources
+C:\Users\Marek\Documents\GitHub\Projekt\gra\gra\obj\Debug\gra.csproj.GenerateResource.Cache
